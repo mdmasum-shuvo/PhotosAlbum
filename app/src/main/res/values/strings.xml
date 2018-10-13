@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="empty_result">No data!</string>
+</resources>
